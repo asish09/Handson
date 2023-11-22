@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.demo.model.Employee"/>
+    <fullyQualifiedTypeName name="reactor.core.publisher.Mono"/>
+    <fullyQualifiedTypeName name="reactor.core.publisher.Flux"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.EnableAutoConfiguration"/>
+</qualifiedTypeNameHistroy>

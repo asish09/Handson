@@ -1,0 +1,23 @@
+package reverse;
+import java.util.Scanner;
+public class Demo {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter a no.");
+		int a=sc.nextInt();
+		System.out.println("Enter another no.");
+		int b=sc.nextInt();
+		Calculator calc=new Calculator();				//object of the class calculator is calc
+		int result=calc.add(a,b);						//method of the class is called 
+		int result2=calc.add(1,b,5);
+		calc.subtract();
+		int mult=calc.multiply(a, b);
+		int r2=
+		System.out.println("the multiplication result is "+mult);
+		System.out.println("the result is "+result);
+		System.out.println("the second result is "+result2);
+		
+	}
+
+}

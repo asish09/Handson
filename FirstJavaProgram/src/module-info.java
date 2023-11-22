@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author asismoha
+ *
+ */
+module FirstJavaProgram {
+}

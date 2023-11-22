@@ -1,0 +1,9 @@
+package reverse;
+
+public class VeryAdvCalc extends AdvCalc{
+	public double power(int e,int f)
+	{
+		return Math.pow(e, f);
+	}
+
+}
